@@ -9,10 +9,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PAIshanMadusha&label=Profile%20views&color=0e75b6&style=flat" alt="PAIshanMadusha" /> </p>
 
+<h2><picture><img src = "https://github.com/user-attachments/assets/bba6086c-5177-4cee-9b05-83ce59f196f2" width = 50px></picture>ABOUT ME</h2>
 <table width="100%">
   <tr>
     <td width="80%" valign="top">
-      <h2><picture><img src = "https://github.com/user-attachments/assets/bba6086c-5177-4cee-9b05-83ce59f196f2" width = 50px></picture>ABOUT ME</h2>
       <ul>
         <li>💻 I'm especially interested in <strong>Flutter, Java, & Spring Boot</strong> for creating innovative applications.</li>
         <li>📱 Always learning, building, and sharing my work with the community!</li>
@@ -32,7 +32,6 @@
 ---
 
 <h2><picture><img src = "https://github.com/user-attachments/assets/bba6086c-5177-4cee-9b05-83ce59f196f2" width = 50px></picture>GITHUB STATUS</h2>
-
 <table width="100%">
   <tr>
     <td width="50%" valign="center">
