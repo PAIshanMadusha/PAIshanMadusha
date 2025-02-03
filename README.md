@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <img src="https://github.com/user-attachments/assets/6e08d96c-d3aa-4e44-b6b8-a24c2925af33" width="240px">
+    <img src="https://github.com/user-attachments/assets/6e08d96c-d3aa-4e44-b6b8-a24c2925af33" width="220px">
   </picture>
 </div>
 
@@ -31,7 +31,8 @@
 
 ---
 
-### 📊 GITHUB STATUS
+<h2><picture><img src = "https://github.com/user-attachments/assets/bba6086c-5177-4cee-9b05-83ce59f196f2" width = 50px></picture>GITHUB STATUS</h2>
+
 <table width="100%">
   <tr>
     <td width="50%" valign="center">
