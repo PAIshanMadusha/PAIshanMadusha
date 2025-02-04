@@ -32,12 +32,12 @@
 ---
 
 <h2><picture><img src = "https://github.com/user-attachments/assets/11ad53ff-be77-42d6-8b7c-08d121ec3c8f" width = 50px></picture> GITHUB STATUS:</h2>
-<table width="80%" align="center">
+<table width="100%" align="center">
   <tr>
-    <td width="40%" align="center">
+    <td width="50%" align="center">
             <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PAIshanMadusha&layout=compact&langs_count=8&theme=algolia" alt="Ishan Github Stats" />
     </td>
-    <td width="40%" align="center">
+    <td width="50%" align="center">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PAIshanMadusha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </td>
   </tr>
@@ -68,4 +68,4 @@
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="65" height="65"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="65" height="65"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 <h2><picture><img src = "https://github.com/user-attachments/assets/c29e955b-09c1-4f26-98a6-f0343c6bc882" width = 50px></picture> SUPPORT:</h2>
-<p align="center"> <a href="https://www.buymeacoffee.com/ishanmadusha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ishanmadusha" /></a></p><br>
+<p align="center"> <a href="https://www.buymeacoffee.com/ishanmadusha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ishanmadusha" /></a></p>
