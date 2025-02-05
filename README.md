@@ -34,24 +34,16 @@
 <h2><picture><img src = "https://github.com/user-attachments/assets/11ad53ff-be77-42d6-8b7c-08d121ec3c8f" width = 50px></picture> GITHUB STATUS:</h2>
 <table width="100%" align="center">
   <tr>
-    <td width="50%" align="center">
-            <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PAIshanMadusha&layout=compact&langs_count=8&theme=algolia" alt="Ishan Github Stats" />
+    <td width="57%" align="center">
+            <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PAIshanMadusha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PAIshanMadusha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <td width="43%" align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PAIshanMadusha&layout=compact&langs_count=8&theme=algolia" alt="Ishan Github Stats" />
     </td>
   </tr>
 </table>
 
-<table width="100%" align="center">
-  <tr>
-    <td width="100%" align="center">
-      <img title="Get streak stats for your profile at git.io/streak-stats" 
-           alt="Mark streak"
-           src="https://github-readme-streak-stats.herokuapp.com/?user=PAIshanMadusha&theme=dark&hide_border=false" />
-    </td>
-  </tr>
-</table>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paishanmadusha" alt="paishanmadusha" /></a> </p>
 
 ---
 
