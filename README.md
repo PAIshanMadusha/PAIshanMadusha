@@ -38,12 +38,15 @@
             <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PAIshanMadusha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
     </td>
     <td width="43%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PAIshanMadusha&layout=compact&langs_count=8&theme=algolia" alt="Ishan Github Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PAIshanMadusha&layout=compact&langs_count=8&theme=algolia" alt="Ishan's Github Stats" />
     </td>
   </tr>
 </table>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paishanmadusha" alt="paishanmadusha" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">  <img src="https://github-profile-trophy.vercel.app/?username=PAIshanMadusha" alt="PAIshanMadusha" />
+  </a>
+</p>
 
 ---
 
