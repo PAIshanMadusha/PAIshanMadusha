@@ -1,3 +1,9 @@
+<div align="top">
+  <picture>
+    <img src="https://github.com/user-attachments/assets/0d6e2523-9a5e-4153-af3d-4908931904eb">
+  </picture>
+</div>
+
 <div align="center">
   <picture>
     <img src="https://github.com/user-attachments/assets/6e08d96c-d3aa-4e44-b6b8-a24c2925af33" width="210px">
