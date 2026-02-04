@@ -39,20 +39,30 @@
 
 <h2><picture><img src = "https://github.com/user-attachments/assets/11ad53ff-be77-42d6-8b7c-08d121ec3c8f" width = 50px></picture> GITHUB STATUS:</h2>
 <table width="100%" align="center">
+  <!-- Trophies Row -->
+  <tr>
+    <td colspan="2" align="center">
+      <img 
+        src="https://github-trophies.vercel.app/?username=PAIshanMadusha&theme=algolia&margin-w=15&margin-h=15" 
+        alt="GitHub Trophies"
+      />
+    </td>
+  </tr>
+  <!-- Stats Row -->
   <tr>
     <td width="57%" align="center">
-            <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PAIshanMadusha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+      <img 
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=PAIshanMadusha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" 
+      />
     </td>
     <td width="43%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PAIshanMadusha&layout=compact&langs_count=8&theme=algolia" alt="Ishan's Github Stats" />
+      <img 
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PAIshanMadusha&layout=compact&langs_count=8&theme=algolia" 
+        alt="Top Languages"
+      />
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/lucthienphong1120/github-trophies">  <img src="https://github-trophies.vercel.app/?username=PAIshanMadusha" alt="PAIshanMadusha" />
-  </a>
-</p>
 
 ---
 
